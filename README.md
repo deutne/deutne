@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deutne
-- 👀 I’m interested in expanding my IT skills and starting to work in IT again.
+- 👀 I’m interested in expanding my IT skills and working in IT.
 - 🌱 I’m currently learning Python, SQL, Python Flask.
 - 📫 How to reach me deutne@gmail.com.
 
