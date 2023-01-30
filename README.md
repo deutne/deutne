@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deutne
 - 👀 I’m interested in expanding my IT skills and working in IT.
-- 🌱 I’m currently learning Python, SQL, Python Flask.
+- 🌱 I’m currently learning Python, Kotlin, Android app development.
 - 📫 How to reach me deutne@gmail.com.
 
 <!---
